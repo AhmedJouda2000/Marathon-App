@@ -95,5 +95,5 @@ The app analyses the user's training pattern and asks the user for their maratho
 * https://github.com/Jffrank/Books/blob/master/Python%20for%20Data%20Analysis.%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(2017%2C%20O%E2%80%99Reilly).pdf
 
 ## Author
-*Ahmed Jouda*, Computer Science with Data Science student at University College Dublin  
+*Ahmed Jouda*, BSc. Computer Science with Data Science student at University College Dublin  
 Mentored by *Dr. Aonghus Lawlor*
